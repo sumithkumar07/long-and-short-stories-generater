@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Once upon a time, a brave cat explored a haunted house. The cat found a hidden treasure and lived happily ever after.",
+    "prompt": "A brave cat explores a haunted house",
+    "genre": "fantasy",
+    "themes": ["adventure", "courage"],
+    "characters": ["cat"]
+  },
+  {
+    "text": "In a small town, a mysterious letter arrived. It changed everything for the young detective.",
+    "prompt": "A mysterious letter arrives in a small town",
+    "genre": "mystery",
+    "themes": ["mystery", "change"],
+    "characters": ["detective"]
+  },
+  {
+    "text": "The old tree in the garden had a secret. Every night, it whispered stories to the children.",
+    "prompt": "An old tree whispers stories to children",
+    "genre": "fantasy",
+    "themes": ["magic", "childhood"],
+    "characters": ["tree", "children"]
+  }
+] 
